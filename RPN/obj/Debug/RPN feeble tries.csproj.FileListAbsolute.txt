@@ -1,0 +1,19 @@
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\bin\Debug\RPN feeble tries.exe.config
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\bin\Debug\RPN feeble tries.exe
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\bin\Debug\RPN feeble tries.pdb
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\obj\Debug\RPN_feeble_tries.Form1.resources
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\obj\Debug\RPN_feeble_tries.Properties.Resources.resources
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.exe
+C:\Users\User\Desktop\hacker stuff\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.pdb
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\bin\Debug\RPN feeble tries.exe.config
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\bin\Debug\RPN feeble tries.exe
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\bin\Debug\RPN feeble tries.pdb
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\obj\Debug\RPN_feeble_tries.Form1.resources
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\obj\Debug\RPN_feeble_tries.Properties.Resources.resources
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.exe
+C:\Users\User\Desktop\Everlasting Hug\RPN feeble tries\RPN feeble tries\obj\Debug\RPN feeble tries.pdb
